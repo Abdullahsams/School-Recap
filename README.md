@@ -7,18 +7,20 @@ Repository ini digunakan sebagai Archive tugas tugas selama PJJ (Pembelajaran Ja
 
 **Pengajar** (IX D) :
 
-Pak Didik     | PAI<br>
-Bu Andam      | PPKn<br>
-Bu Emil       | Bahasa Indonesia<br>
-Bu Endang Sri | MTK<br>
-Pak Totok     | IPA<br>
-Bu Titik      | IPS<br>
-Pak Sunaryo   | Bahasa Inggris<br>
-Bu Dyah       | Seni Budaya<br>
-Pak Sueb      | PJOK<br>
-Pak Bashori   | Prakarya / TIK<br>
-Bu Resti      | Bahasa Jawa<br>
-Bu Ummu       | BTQ<br>
-Bu Ida        | BK<br>
+<pre>
+Pak Didik     | PAI  
+Bu Andam      | PPKn  
+Bu Emil       | Bahasa Indonesia  
+Bu Endang Sri | MTK  
+Pak Totok     | IPA  
+Bu Titik      | IPS  
+Pak Sunaryo   | Bahasa Inggris  
+Bu Dyah       | Seni Budaya  
+Pak Sueb      | PJOK  
+Pak Bashori   | Prakarya / TIK
+Bu Resti      | Bahasa Jawa  
+Bu Ummu       | BTQ  
+Bu Ida        | BK  
+</pre>
 
 ### Minggu 1

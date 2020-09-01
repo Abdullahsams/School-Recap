@@ -1,5 +1,5 @@
 # Hari 4
-<h2 align="right">(Kamis, 23 Juli 2020) </h2>
+<p align="right">(Kamis, 23 Juli 2020) </p>
 
 PPKN [Sosialisasi PPKN]
 * [Materi](https://github.com/Abdullahsams/School-Recap/tree/master/Minggu%201/Hari%204/Sosialisasi%20silabus%20kelas%209%20PPKn.pdf) | [Lembar Kerja](https://github.com/Abdullahsams/School-Recap/tree/master/Minggu%201/Hari%204/Soal%20Sosialisasi%20Silabus%20PPKn.doc)

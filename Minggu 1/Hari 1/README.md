@@ -1,5 +1,5 @@
 # Hari 1
-<h2 align="right">(Senin, 20 Juli 2020)</h2>
+<p align="right">(Senin, 20 Juli 2020)</p>
 
 <pre>
 Hasil diskusi KS, waka, dan koordinator MGMPS

@@ -1,5 +1,5 @@
 # Hari 3
-<h2 align="right">(Rabu, 22 Juli 2020) </h2>
+<p align="right">(Rabu, 22 Juli 2020) </p>
 
 IPS [Materi & LK Kondisi Geografis Benua Asia dan Amerika]
 * [Video](https://youtu.be/-qdU0xjruPU) | [Lembar Kerja](https://github.com/Abdullahsams/School-Recap/tree/master/Minggu%201/Hari%203/BDR%209%20PERTEMUAN%201.doc)

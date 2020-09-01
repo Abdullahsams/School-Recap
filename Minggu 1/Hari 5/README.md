@@ -1,4 +1,6 @@
 # Hari 5
+<h2 align="right">(Jumat, 24 Juli 2020) </h2>
+
 BTQ [Materi Gharib Dalam Al Qur'an]
 * [Materi](https://github.com/Abdullahsams/School-Recap/tree/master/Minggu%201/Hari%205/GHARIB%20DALAM%20AL%20QUR’AN.pdf) | [Artikel](https://makalahnih.blogspot.com/2017/03/penjelasana-lengkap-ayat-ayat-al.html)
 

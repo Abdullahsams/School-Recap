@@ -1,4 +1,6 @@
 # Hari 2
+<h2 align="right">(Selasa, 21 Juli 2020) </h2>
+
 IPA [Sosialisasi IPA]
 * [Video](https://www.youtube.com/watch?reload=9&v=oWEgc-AE0pw&feature=youtu.be )
 

@@ -1,4 +1,6 @@
 # Hari 1
+<h2 align="right">(Senin, 20 Juli 2020)</h2>
+
 <pre>
 Hasil diskusi KS, waka, dan koordinator MGMPS
 Di ruang SKC hari Rabu, tgl 15 Juli 2020

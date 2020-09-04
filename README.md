@@ -43,26 +43,26 @@ Bu Ida        | BK
 Hari 1 (**Senin, 20 Juli 2020**): Pretest
 
 Hari 2 (**Selasa, 21 Juli 2020**):
-* IPA [Sosialisasi IPA]
+* IPA [**Sosialisasi IPA**]
 * PJOK [Materi & LK **Kebugaran Jasmani**]
-* PABP [Materi Congratulations]  
+* PABP [Materi **Congratulations**]  
 
 Hari 3 (**Rabu, 22 Juli 2020**):
-* IPS [Materi & LK Kondisi Geografis Benua Asia dan Amerika]
-* MTK [Sosialisasi MTK]
-* B. JAWA [Materi Teks Asile Observasi]
+* IPS [Materi & LK **Kondisi Geografis Benua Asia dan Amerika**]
+* MTK [**Sosialisasi** MTK]
+* B. JAWA [Materi **Teks Asile Observasi**]
 
 
 Hari 4 (**Kamis, 23 Juli 2020**):
-* PPKN [Sosialisasi PPKN]
-* PRAKARYA (TIK) [Materi Web Browser]
-* B. INDONESIA [Materi & LK Mengidentifikasi Teks Laporan Percobaan]
+* PPKN [**Sosialisasi** PPKN]
+* PRAKARYA (TIK) [Materi **Web Browser**]
+* B. INDONESIA [Materi & LK **Mengidentifikasi Teks Laporan Percobaan**]
 
 Hari 5 (**Jumat, 24 Juli 2020**):
-* BTQ [Materi Gharib Dalam Al Qur'an]
-* IPA [Materi & LK Pembelahan Sel pada Sistem Reproduksi Manusia]
+* BTQ [Materi **Gharib Dalam Al Qur'an**]
+* IPA [Materi & LK **Pembelahan Sel pada Sistem Reproduksi Manusia**]
 
 Hari 6 (**Sabtu, 25 Juli 2020**):
-* MTK [Materi & LK Bilangan Berpangkat]
-* B. INGGRIS [Quiz Congratulations]
-* SB [LK Berkarya Seni Lukis]
+* MTK [Materi & LK **Bilangan Berpangkat**]
+* B. INGGRIS [Quiz **Congratulations**]
+* SB [LK **Berkarya Seni Lukis**]

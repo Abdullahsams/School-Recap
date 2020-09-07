@@ -9,7 +9,7 @@ Repository ini digunakan sebagai Archive tugas tugas selama PJJ (Pembelajaran Ja
 > **SARAN:** Apabila dirasa tidak paham dengan penyampaian guru, bisa belajar melalui **Zenius** (Gratis)
 
 ## WARP❇️
-[[Kumpulan Lembar Kerja](https://github.com/Abdullahsams/School-Recap/tree/master/Kumpulan/Lembar%20Kerja)] [[Kumpulan Materi](https://github.com/Abdullahsams/School-Recap/tree/master/Kumpulan/Materi)]
+[[Tugas yang dikumpulkan](https://github.com/Abdullahsams/School-Recap/tree/master/Kumpulan/@Tugas-yang-dikumpulkan)] [[Urutan belajar setiap mapel](https://github.com/Abdullahsams/School-Recap/tree/master/Kumpulan/)]
 
 Berdasarkan minggu :
 * [Minggu 1](#m1)
